@@ -157,7 +157,7 @@
             <h1>Catalogo de Aulas</h1>
           </div>
           <div class="col-sm-6">
-            
+            <a href="#"><button type="button" class="btn btn-primary">Registrar Aula</button></a>
           </div>
         </div>
       </div><!-- /.container-fluid -->
